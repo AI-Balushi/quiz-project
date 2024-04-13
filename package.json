@@ -1,5 +1,5 @@
 {
-  "name": "quiz",
+  "name": "@abdul_waheed/quiz",
   "version": "1.0.0",
   "description": "An interactive quiz application that challenges users with multiple-choice questions, providing an engaging way to test and enhance their knowledge",
   "main": "index.js",
