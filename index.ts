@@ -5,21 +5,17 @@ import gradient from "gradient-string";
 import chalk from "chalk";
 import fetch from "node-fetch";
 
-
 const lineLength = process.stdout.columns;
 const line = gradient.rainbow("=".repeat(lineLength));
 
 const heading = "Code With Abdul Waheed";
 const paddingLength = Math.floor((lineLength - heading.length) / 2);
-const paddedHeading = "=".repeat(paddingLength) + heading + "=".repeat(paddingLength);
+const paddedHeading =
+  "=".repeat(paddingLength) + heading + "=".repeat(paddingLength);
 
 console.log(line);
 console.log(paddedHeading);
 console.log(line);
-
-
-
-
 
 const apiLink: string =
   "https://opentdb.com/api.php?amount=6&category=18&type=multiple";
