@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import gradient from "gradient-string";
 import chalk from "chalk";

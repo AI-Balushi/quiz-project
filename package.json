@@ -1,6 +1,6 @@
 {
-  "name": "@abdul_waheed/quiz",
-  "version": "1.0.0",
+  "name": "@abdul_waheed/quiz-project",
+  "version": "1.0.1",
   "description": "An interactive quiz application that challenges users with multiple-choice questions, providing an engaging way to test and enhance their knowledge",
   "main": "index.js",
   "type": "module",
