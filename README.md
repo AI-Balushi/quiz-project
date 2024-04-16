@@ -30,4 +30,4 @@ A simple quiz game CLI application built with Node.js. Test your knowledge with 
 
 ## Author
 
-[Abdul Waheed](https://github.com/abdulwaheed18)
+[Abdul Waheed](https://github.com/AI-Balushi/quiz-project)
